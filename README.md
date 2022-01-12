@@ -13,5 +13,8 @@ pi@goldenchild:/media/pi/d5e76c06-5d89-420a-acd6-2fa7fff2edde/kiwix $ tree .
 └── wikipedia_en_all_maxi_2021-12.zim
 ```
 - run it, yeah search magically works too:
+```
 pi@goldenchild:/media/pi/d5e76c06-5d89-420a-acd6-2fa7fff2edde/kiwix $ sudo bin/kiwix-serve wikipedia_en_all_maxi_2021-12.zim &
 The Kiwix server is running and can be accessed in the local network at: http://192.168.0.123:80
+```
+
